@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HungerDirectory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+
+    <string name="add_to_cart_btn">Add</string>
+    <string name="proceed_to_car_btn">Proceed To Cart</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below: </string>
+    <string name="ordering_from">Ordering From:</string>
+    <string name="place_order">Place order (Rs)</string>
+
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="your_previous_order_are_listed_below">Your previous order are listed below:</string>
+    <string name="question1">Q.1 Why is HungerDirectory doing this?</string>
+    <string name="answer1">A.1 At FoodDirectory we strive to add value to your business. We understand the challenges you face on a daily basis in sourcing the best quality packaging material. FoodDirectory Packaging Assist is to take care of all your packaging needs.</string>
+    <string name="question2">Q.2 How are you guys are different?</string>
+    <string name="answer2">A.2 Best products - we only list the products which have passed our tests and are the best suitable for delivery. They will help in giving a better consumer experience, so you can get repeated orders. Best Prices - We have negotiated rates with our distributors exclusive for the HungerDirectory. Convenience - No need to haggle for the prices. No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="question3">Q.3 What if the restaurant has changed its prices?</string>
+    <string name="answer3">A.3  If there has been a menu change and there is a difference of more than %.00 we will contact you to make sure the price difference is ok or if you want to change an item.</string>
+    <string name="question5">Q.4 Who is the person behind this project?</string>
+    <string name="answer5">A.4 This is Varun Prajapati, behind this project.</string>
+    <string name="can_t_find_any_restaurant_with_That_name">Can\'t find any Restaurant with that name!!!</string>
+    <string name="no_orders_placed">No Orders Placed</string>
+</resources>

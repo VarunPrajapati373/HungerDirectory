@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--this code allow to send http request. (very important when we use http request)-->
+
+<network-security-config>
+    <domain-config cleartextTrafficPermitted ="true">
+
+        <domain includeSubdomains="true">13.235.250.119</domain>
+    </domain-config>
+</network-security-config>
